@@ -1,1 +1,1 @@
-print('Hi Sokhin Dmytro')
+print('Hi Sokhin Dmytro') #виводить текст
